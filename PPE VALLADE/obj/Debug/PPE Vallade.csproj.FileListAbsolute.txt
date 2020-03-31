@@ -1,0 +1,20 @@
+C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\bin\Debug\PPE Vallade.exe.config
+C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\bin\Debug\PPE Vallade.exe
+C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\bin\Debug\PPE Vallade.pdb
+C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\obj\Debug\PPE Vallade.csprojAssemblyReference.cache
+C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\obj\Debug\PPE_Vallade.Form1.resources
+C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\obj\Debug\PPE_Vallade.Properties.Resources.resources
+C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\obj\Debug\PPE Vallade.csproj.GenerateResource.cache
+C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\obj\Debug\PPE Vallade.csproj.CoreCompileInputs.cache
+C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\obj\Debug\PPE Vallade.exe
+C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\obj\Debug\PPE Vallade.pdb
+C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\bin\Debug\Dapper.dll
+C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\bin\Debug\MySql.Data.dll
+C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\bin\Debug\Google.Protobuf.dll
+C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\bin\Debug\Renci.SshNet.dll
+C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\bin\Debug\Dapper.xml
+C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\bin\Debug\MySql.Data.xml
+C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\obj\Debug\PPE Vallade.csproj.CopyComplete
+C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\obj\Debug\PPE_Vallade.Form2.resources
+C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\obj\Debug\PPE_Vallade.Form3.resources
