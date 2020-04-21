@@ -18,3 +18,4 @@ C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\bin\Debug\MySql.Data.xml
 C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\obj\Debug\PPE Vallade.csproj.CopyComplete
 C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\obj\Debug\PPE_Vallade.Form2.resources
 C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\obj\Debug\PPE_Vallade.Form3.resources
+C:\Users\ichai\source\repos\PPE Vallade\PPE Vallade\obj\Debug\PPE_Vallade.Login.resources
